@@ -1,4 +1,6 @@
 const express = require('express')
+const moment = require('moment')
+const fs = require('fs')
 
 const app = express()
 
@@ -7,5 +9,12 @@ app.get('/', (req, res) => {
 })
 
 app.listen(3000, () => {
-  console.log('pm2 서버 시작')
+  const current = moment().format('YYYYMMDD')
+  fs.readdir(`./${current}`, (err, dir) => {
+    if (err) {
+      console.log(err)
+    } else {
+      require(`./${current}/${dir[dir.length - 1]}/run.js`)
+    }
+  })
 })
