@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "programmers",
+      "script": "backend.js",
+      "watch": true,
+      "ignore_watch" : [
+        "node_modules",
+        "package-lock.json",
+        ".gitignore",
+        "package.json",
+        "README.md"
+      ]
+    }
+  ]
+}
