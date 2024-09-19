@@ -1,4 +1,4 @@
-# 카운트 업 - Lv. 0
+# 로또의 최고 순위와 최저 순위 - Lv. 1
 
 ### 성능 요약
 
@@ -67,17 +67,17 @@
   <tbody>	
     <tr>
       <td>최고 순위 번호</td>
-      <td><span style="text-decoration: underline; font-weight: bold;">31</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">10</span></td>
+      <td><U>**31**</U></td>
+      <td>0 → <U>**10**</U></td>
       <td>44</td>
       <td>1</td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">6</span></td>
+      <td>0 → <U>**6**</U></td>
       <td>25</td>
       <td>4개 번호 일치, 3등</td>
     </tr>
     <tr>
       <td>최저 순위 번호</td>
-      <td><span style="text-decoration: underline; font-weight: bold;">31</span></td>
+      <td><U>**31**</U></td>
       <td>0 → 11</td>
       <td>44</td>
       <td>1</td>
@@ -173,12 +173,12 @@
   <tbody>	
     <tr>
       <td>최고 순위 번호</td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">38</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">19</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">20</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">40</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">15</span></td>
-      <td>0 → <span style="text-decoration: underline; font-weight: bold;">25</span></td>
+      <td>0 → <U>**38**</U></td>
+      <td>0 → <U>**19**</U></td>
+      <td>0 → <U>**20**</U></td>
+      <td>0 → <U>**40**</U></td>
+      <td>0 → <U>**15**</U></td>
+      <td>0 → <U>**25**</U></td>
       <td>6개 번호 일치, 1등</td>
     </tr>
     <tr>

@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [로또의 최고 순위와 최저 순위](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/005_%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)                                                                                       |20240919|
   | 1     | [추억 점수](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/002_%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98)                                                                                       |20240912|
   | 1     | [동영상 재생기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/001_%EB%8F%99%EC%98%81%EC%83%81%20%EC%9E%AC%EC%83%9D%EA%B8%B0)                                                                                                      |20240911|
 </details>
