@@ -26,3 +26,25 @@ function solution (progresses, speeds) {
   }
   return result
 }
+
+// 다른사람 해결법
+function solution2 (progresses, speeds) {
+  let answer = [0];
+  
+  // 일단 나는 reduce사용인데 map으로 처리도 가능
+  let days = progresses.map((progress, index) => Math.ceil((100 - progress) / speeds[index]));
+
+  let maxDay = days[0];
+
+  // maxDay flag확인법
+  for(let i = 0, j = 0; i< days.length; i++){
+    if(days[i] <= maxDay) {
+      answer[j] += 1;
+    } else {
+      maxDay = days[i];
+      answer[++j] = 1;
+    }
+  }
+
+  return answer;
+}
