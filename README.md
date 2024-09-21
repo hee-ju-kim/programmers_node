@@ -27,7 +27,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
-  | 1     | [짝수와 홀수](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/004_%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85)                                                                                                      |20240919|
+  | 1     | [짝수와 홀수](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/008_%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)                                                                                                      |20240921|
   | 0     | [카운트 업](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/004_%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EC%97%85)                                                                                                      |20240919|
   | 0     | [주사위 게임2](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/003_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B2%8C%EC%9E%84)                                                                                                      |20240913|
 </details>
