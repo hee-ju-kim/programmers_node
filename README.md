@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [명예의 전당 (1)](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/013_%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B91)                                                                                       |20240924|
   | 1     | [개인정보 수집 유효기간](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/012_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)                                                                                       |20240924|
   | 0     | [개미군단](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/011_%EA%B0%9C%EB%AF%B8%EA%B5%B0%EB%8B%A8)                                                                                       |20240923|
   | 2     | [기능개발](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/007_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)                                                                                       |20240920|
