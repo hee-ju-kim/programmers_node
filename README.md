@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 0     | [개미군단](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/011_%EA%B0%9C%EB%AF%B8%EA%B5%B0%EB%8B%A8)                                                                                       |20240923|
   | 2     | [기능개발](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/007_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)                                                                                       |20240920|
   | 1     | [성격 유형 검사하기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/006_%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)                                                                                       |20240919|
   | 1     | [로또의 최고 순위와 최저 순위](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/005_%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84)                                                                                       |20240919|
