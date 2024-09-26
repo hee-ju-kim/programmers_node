@@ -16,3 +16,11 @@ function solution(d, budget) {
   }
   return answer;
 }
+
+
+// 다른사람거
+function solution2(d, budget) {
+  return d.sort((a, b) => a - b).reduce((count, price) => {
+    return count + ((budget -= price) >= 0);
+  }, 0);
+}
