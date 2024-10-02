@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [카드뭉치](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/018_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98)                                                                                       |20241002|
   | 0     | [양꼬치](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/017_%EC%96%91%EA%BC%AC%EC%B9%98)                                                                                       |20240926|
   | 1     | [예산](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/016_%EC%98%88%EC%82%B0)                                                                                       |20240926|
   | 1     | [콜라츠 추측](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/015_%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1)                                                                                       |20240925|
