@@ -6,7 +6,7 @@
 // "5525"	"1255"	"552"
 
 
-console.log(solution2("100", "203045"))
+console.log(solution3("100", "203045"))
 
 function solution(X, Y) {
   let small, chk
@@ -63,4 +63,25 @@ function solution2(x, y){
   if(answer.length === 0) return "-1"
   if(answer[0] === "0" ) return "0";
   return answer;
+}
+
+// 다른사람거2
+function solution3(X, Y) {
+  let num1 = new Array(10).fill(0)
+  let num2 = new Array(10).fill(0)
+  let answer = ""
+  for(let i = 0; i < X.length; ++i){
+      num1[X[i]] += 1
+  }
+  for(let i = 0; i < Y.length; ++i){
+      num2[Y[i]] += 1
+  }
+  for(let i = 9; i >=0; --i){
+      if(num1[i]>0 && num2[i]>0){
+          answer += (i+"").repeat(Math.min(num1[i], num2[i]))
+      }
+  }
+  if(answer == "") return "-1"
+  if(answer.split("").every(v=>v==0)) return "0"
+  return answer
 }
