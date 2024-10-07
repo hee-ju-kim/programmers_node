@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [숫자짝꿍](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/019_%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D)                                                                                       |20241007|
   | 1     | [카드뭉치](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/018_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98)                                                                                       |20241002|
   | 0     | [양꼬치](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/017_%EC%96%91%EA%BC%AC%EC%B9%98)                                                                                       |20240926|
   | 1     | [예산](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/016_%EC%98%88%EC%82%B0)                                                                                       |20240926|
