@@ -19,13 +19,8 @@
 <hr>
 
 <h5>입출력 예</h5>
-// x	return
-// 10	true
-// 12	true
-// 11	false
-// 13	false
 
-| x | return
+| x | return |
 |-----|-----|
 | 10 | true |
 | 12 | true |
