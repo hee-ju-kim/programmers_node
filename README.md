@@ -13,6 +13,8 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [옹알이](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/023_%EC%98%B9%EC%95%8C%EC%9D%B42)                                                             |20241010|
+  | 2     | [뒤에 있는 큰 수 찾기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/021_%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0)                                                             |20241010|
   | 2     | [귤 고르기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/021_%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0)                                                                                       |20241008|
   | 1     | [숫자짝꿍](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/019_%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D)                                                                                       |20241007|
   | 1     | [카드뭉치](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/018_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98)                                                                                       |20241002|
