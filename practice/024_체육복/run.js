@@ -2,13 +2,8 @@
 // 5,	[2, 4],	[1, 3, 5]	5
 // 5,	[2, 4],	[3]	4
 // 3,	[3],	[1],	2
-// 5, [4,2], [3,5] 5
-// 10, [1,2,3,4,5,6], [1,2,3]
-// 10, [4, 7], [1, 6, 8] 9
-//  5, [4, 5], [3, 4] 4
 
-
-console.log(solution(5, [4,2], [3,5]))
+console.log(solution(5,	[2, 4],	[1, 3, 5]))
 
 function solution(n, lost, reserve) {
   const lostJson = lost.reduce((acc, ele) => {
@@ -24,12 +19,9 @@ function solution(n, lost, reserve) {
     return acc
   }, {})
 
-  let answer = n - lost.length + Object.keys(common).length
+  let answer = n - Object.keys(lostJson).length
 
-  const loanable = reserve.filter(ele => !lostJson[ele] && !common[ele]).sort((a,b) => a-b)
-
-  console.log('lostJson', lostJson)
-  console.log('loanable', loanable)
+  const loanable = reserve.filter(ele => !common[ele]).sort((a,b) => a-b)
   if (loanable.length === 0) return answer
 
   loanable.forEach(ele => {
