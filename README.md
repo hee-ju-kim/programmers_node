@@ -39,6 +39,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 1     | [푸드파이터 대회](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/025_%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C)                                                                                                      |20241018|
   | 1     | [하샤드수](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/020_%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98)                                                                                                      |20241007|
   | 1     | [x만큼 간격이 있는 n개의 숫자](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/010_x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)                                                                                                      |20240922|
   | 1     | [K번째수](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/009_K%EB%B2%88%EC%A7%B8%EC%88%98)                                                                                                      |20240922|
