@@ -13,6 +13,8 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  |  1    | [3진법 뒤집기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/027_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0)                                                             |20241022|
+  |  1    | [음양더하기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/026_%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)                                                             |20241022|
   | 2     | [뒤에 있는 큰 수 찾기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/022_%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)                                                             |20241016|
   | 1     | [옹알이](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/023_%EC%98%B9%EC%95%8C%EC%9D%B42)                                                             |20241010|
   | 2     | [귤 고르기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/021_%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0)                                                                                       |20241008|
