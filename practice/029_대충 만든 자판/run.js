@@ -26,3 +26,7 @@ function solution(keymap, targets) {
 
   return answer;
 }
+
+const arr = Array(26).fill(0).map((e, index) => String.fromCharCode('A'.charCodeAt() + index))
+console.log(arr)
+
