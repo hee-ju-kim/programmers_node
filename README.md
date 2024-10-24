@@ -13,6 +13,8 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  |  1    | [대충만든 자판](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/029_%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90)                                                             |20241024|
+  |  1    | [둘만의 암호](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/028_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8)                                                             |20241023|
   |  1    | [3진법 뒤집기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/027_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0)                                                             |20241022|
   |  1    | [음양더하기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/026_%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0)                                                             |20241022|
   | 2     | [뒤에 있는 큰 수 찾기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/022_%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0)                                                             |20241016|
