@@ -13,6 +13,7 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  |  2    | [시소짝꿍](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/030_%EC%8B%9C%EC%86%8C%EC%A7%9D%EA%BF%8D)                                                             |20241030|
   |  1    | [대충만든 자판](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/029_%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90)                                                             |20241024|
   |  1    | [둘만의 암호](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/028_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8)                                                             |20241023|
   |  1    | [3진법 뒤집기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/027_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0)                                                             |20241022|
