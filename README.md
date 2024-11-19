@@ -13,6 +13,9 @@
 
   | level | 제목                                                                                                                                                                                         |날짜|
   | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  |  1    | [햄버거만들기](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/033_%ED%96%84%EB%B2%84%EA%B1%B0%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                             |20241114|
+  |  1    | [내적](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/032_%EB%82%B4%EC%A0%81)                                                             |20241104|
+  |  2    | [공원산책](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/031_%EA%B3%B5%EC%9B%90%EC%82%B0%EC%B1%85)                                                             |20241101|
   |  2    | [시소짝꿍](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/030_%EC%8B%9C%EC%86%8C%EC%A7%9D%EA%BF%8D)                                                             |20241030|
   |  1    | [대충만든 자판](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/029_%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90)                                                             |20241024|
   |  1    | [둘만의 암호](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/028_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8)                                                             |20241023|
